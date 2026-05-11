@@ -1,0 +1,13 @@
+# Model weights (too large for GitHub)
+*.pt
+*.pth
+
+# Dataset (too large for GitHub)
+*.csv.zip
+data/
+ACCIDENTDATA_PROJECT_UNIQUE_IMAGES.csv
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
